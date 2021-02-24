@@ -1,24 +1,34 @@
 ---
-title: "Willkommen!"
-image: "herzl.jpg"
-color1: "#5A59A3"
-color2: "#C66060"
-angle: 130
+title: "Azaid Ordaz"
+image: "credencial.jpg"
 links:
-  - label: YouTube
-    url: "https://youtube.com/"
-  - label: Vimeo
-    url: "https://vimeo.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/AzaidOrdaz"
+  - label: GitHub
+    url: "https://github.com/AzaidOA"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:azaid@lcg.unam.mx"
 output:
-  postcards::onofre
+  postcards::trestles
 ---
  
-György Herzl is a filmmaker and computational storyteller based in Leipzig,
-Germany. Their work has been featured at the Festival do Rio, Internationale
-Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art
-in New York City. "ГУМ" is their latest project which examines the rise of
-consumerism in post-Soviet republics.
+## Bio
+
+Azaid Ordaz is a student of the undergraduate program on Genomic Sciences in Cuernavaca, Morelos, Mexico. He is interested in fields such as genomics, immunology and virology. He is currently on a research stay at the Mexico's National Institute of Respiratory Diseases, where he is building a Boolean network to study macrophage differentiation..
+
+## Education
+
+**Center for Genomic Sciences, National Autonomous University of Mexico** | Cuernava, Morelos, Mexico
+
+B.S. in Genomic Sciences | August 2019 - Present
+
+**School of Medicine, National Autonomous University of Mexico** | Mexico City, Mexico
+
+Medical School | August 2018 - June 2019, 1 year
+
+## Experience
+
+**Mexico's National Institute of Respiratory Diseases** | Research Stay | April 2020 - Present
+
+**Institute of Biotechnology** | Research Stay | January 2020 - March 2020
+
